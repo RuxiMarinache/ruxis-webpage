@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Questrial', sans-serif;
+}
+
+.about-me,
+.portfolio,
+.skills,
+.portfolio {
+  background-image: url('./components/background2.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #F4DF71;
+  ;
+  font-size: 100px;
+}
+
+.skills {
+  background-image: url('./components/background2.png');
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
